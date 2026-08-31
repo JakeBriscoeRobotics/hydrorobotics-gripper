@@ -2,11 +2,14 @@
 Author: **Jake Briscoe** (jb3804), University of Bath
 NOTE: For concerns of espionage amongst competition teams, the exact files have not been included for CAD designs but photos have been provided.
 
+<img width="335" height="193" alt="socialMediaCommunicationHook png 1 (2)" src="https://github.com/user-attachments/assets/885e1f47-c09f-403a-b09f-d724abfe0fc8" />
+
 **Objective**
 Create a gripper that can operate underwater. pick up irregular shaped objects, and feature water ingress detection system.
 
 **Plan**
-Create a custom designed end-effector which features a strip of flexible Thermoplastic Polyurethane (TPU)
+Create a custom designed end-effector which features a str![Uploading socialMediaCommunicationHook.png.1 (2).png…]()
+ip of flexible Thermoplastic Polyurethane (TPU)
 
 **Images of CAD Design**
 
