@@ -1,4 +1,4 @@
-<img width="335" height="193" alt="socialMediaCommunicationHook png 1 (2)" src="https://github.com/user-attachments/assets/885e1f47-c09f-403a-b09f-d724abfe0fc8" />
+<img width="1299" height="797" alt="Capture" src="https://github.com/user-attachments/assets/99fbd232-1dbb-44be-ab82-e5605469ccf2" />
 
 # Hydrorobotics Actuation Gripper
 Author: **Jake Briscoe** (jb3804), University of Bath
@@ -8,11 +8,13 @@ NOTE: For concerns of espionage amongst competition teams, the exact files have 
 Create a gripper that can operate underwater. pick up irregular shaped objects, and feature water ingress detection system.
 
 **Plan**
-Create a custom designed end-effector which features a str![Uploading socialMediaCommunicationHook.png.1 (2).png…]()
-ip of flexible Thermoplastic Polyurethane (TPU)
+Create a custom designed end-effector which features a strip of flexible Thermoplastic Polyurethane (TPU)
 
 **Images of CAD Design**
 
 <img width="412" height="314" alt="cadPhotoTwo" src="https://github.com/user-attachments/assets/26fda6b2-acf5-4726-a317-589d6849ca28" />
 
 <img width="371" height="180" alt="cadPhotoOne" src="https://github.com/user-attachments/assets/a17f8958-7413-4e4a-9389-dc53d16b5acb" />
+
+**Water Ingress Detection System**
+A DHT11 Humidity Sensor was used to detect the 
